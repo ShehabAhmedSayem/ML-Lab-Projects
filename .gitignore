@@ -1,0 +1,11 @@
+# Ignore downloaded datasets
+
+.ipynb_checkpoints/
+
+.idea
+*.pyc
+*.p
+*.pkl 
+*.pickle
+.ipynb_checkpoints
+__pycache__
