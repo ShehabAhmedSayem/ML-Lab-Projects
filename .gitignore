@@ -9,3 +9,5 @@
 *.pickle
 .ipynb_checkpoints
 __pycache__
+
+/Document categorization/category/
